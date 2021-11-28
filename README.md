@@ -5,6 +5,7 @@ Can do basic arithmetic, and can answer a fundamental historical question: "Who 
 Main requirement: Visual Studio
 
 Usage:
-- start the app and say "speech on"
+- start/pause the app by saying "speech on"/"speech off"
 - ask "What is x times/plus y?" (e.g., "What is 4 times 5?") or "Who was the best leader in history?"
+- say "stop listening" to stop the program
 - enjoy
