@@ -1,7 +1,7 @@
 ﻿using System;
-using Microsoft.Speech.Recognition; // Microsoft.Speech.dll at C:\Program Files (x86)\Microsoft SDKs\Speech\v11.0\Assembly
+using Microsoft.Speech.Recognition;
 using Microsoft.Speech.Synthesis;
-using System.Globalization; // recognition
+using System.Globalization;
 
 namespace SpeechConsoleApp
 {
