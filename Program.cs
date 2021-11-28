@@ -138,7 +138,7 @@ namespace SpeechConsoleApp
 
             if(txt.IndexOf("best") >= 0 && txt.IndexOf("leader") >= 0)
             {
-                string resp = "The best leader in history was Vlad Tepes";
+                string resp = "The best leader in history was Vlad the Impaler";
                 Console.WriteLine("(Speaking: " + resp + ")") ;
                 ss.SpeakAsync(resp);
             }
